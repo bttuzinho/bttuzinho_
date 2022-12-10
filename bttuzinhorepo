@@ -1,3 +1,0 @@
-/command $ npm i github-user-repo-card
-<GithubCard>
-import { GithubCard } from "github-user-repo-card";
